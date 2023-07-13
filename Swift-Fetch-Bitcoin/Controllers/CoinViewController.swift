@@ -8,7 +8,7 @@
 import UIKit
 
 class CoinViewController: UIViewController {
-
+    //coinView
     @IBOutlet weak var bitcoinLabel: UILabel!
     @IBOutlet weak var currencyPickerView: UIPickerView!
     @IBOutlet weak var currencyLabel: UILabel!
